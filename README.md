@@ -1,10 +1,11 @@
-- 👋 Hi, my name is Damien Luzzo
+- 👋 Hi, my name is Damien Luzzo 🐱‍💻
 
-- 💥 I’m interested in 🎬Filmmaking, 📚Learning, 🚀Physics, 🏉Football, ⚽Soccer, 🎮Videogames, 🏋️‍♂️Weight Lifting, 👨‍🌾🌱Gardening, 🧩Solving Problems, ⚖Social Justice, 🌎Climate Change, 🌳Environmental Activism
 
-- 🌱 I’m currently learning 💻Web Development, 📱React Native, and 🐱‍💻Ethical Hacking
+- 💥 I’m interested in 💻Software Engineering, 📚Learning, 🚀Physics, 🎬Filmmaking, 🏉Football, ⚽Soccer, 🎮Videogames, 🏋️‍♂️Weight Lifting, 👨‍🌾🌱Gardening, 🧩Solving Problems, ⚖Social Justice, 🌎Climate Change, 🌳Environmental Activism
 
-- 👨🏻‍💻 Current Languages & Technologies: Javascript, Python, React, Node.js, CSS3, HTML5, Express, MongoDB, MySQL, Postgresql, GraphQL, Heroku, Git, Bash, Materialize, Bootstrap, Jest, Insomnia, Postman, Figma, and Illustrator
+- 🌱 I’m currently learningReact Native, C#, and Ethical Hacking
+
+- 👨🏻‍💻 Current Languages & Technologies: Javascript, Typescript, Python, React, Node.js, CSS3, HTML5, Express, MongoDB, MySQL, Postgresql, GraphQL, Heroku, Git, Bash, Materialize, Bootstrap, Jest, Insomnia, Postman, Figma, and Illustrator
 
 - 💞️ I’m looking to collaborate on anything written in <b>JavaScript or Python</b>, or <b>anything that aims to make a positive change in the world</b>
 
