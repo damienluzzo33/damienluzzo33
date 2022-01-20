@@ -3,7 +3,7 @@
 
 - 💥 I’m interested in 💻Software Engineering, 📚Learning, 🚀Physics, 🎬Filmmaking, 🏉Football, ⚽Soccer, 🎮Videogames, 🏋️‍♂️Weight Lifting, 👨‍🌾🌱Gardening, 🧩Solving Problems, ⚖Social Justice, 🌎Climate Change, 🌳Environmental Activism
 
-- 🌱 I’m currently learningReact Native, C#, and Ethical Hacking
+- 🌱 I’m currently learning React Native, C#, and Ethical Hacking
 
 - 👨🏻‍💻 Current Languages & Technologies: Javascript, Typescript, Python, React, Node.js, CSS3, HTML5, Express, MongoDB, MySQL, Postgresql, GraphQL, Heroku, Git, Bash, Materialize, Bootstrap, Jest, Insomnia, Postman, Figma, and Illustrator
 
