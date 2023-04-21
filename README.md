@@ -2,7 +2,7 @@
 
 - 💥 I’m interested in 💻Software Engineering, 📚Learning, 🚀Physics, 🎬Filmmaking, 🏉Football, ⚽Soccer, 🎮Videogames, 🏋️‍♂️Weight Lifting, 👨‍🌾🌱Gardening, 🧩Solving Problems, ⚖Social Justice, 🌎Climate Change, 🌳Environmental Activism
 
-- 🌱 I’m currently learning React Native, Rust, and C#!
+- 🌱 I’m currently learning C#, GO, and Machine Learning!
 
 - 👨🏻‍💻 Current Languages & Technologies: Javascript, Typescript, Python, PHP, Vue.js, React.js, Node.js, Laravel, CSS3, HTML5, Express, MongoDB, MySQL, Postgresql, GraphQL, Apollo, Heroku, Netlify, Git, Bash, Materialize, Bootstrap, MUI, Jest, Insomnia, Postman, Figma, Adobe Illustrator, Adobe XD, and Socket.io.
 
